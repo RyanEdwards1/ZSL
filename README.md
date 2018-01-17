@@ -149,7 +149,7 @@ Below we will break down each point of feedback and explain how we adapted our d
 | With the original concept art we felt that it looked a little too cartoony. With the major change being the removal of the maze we decided to make the elements appeal to the client more, in order to do so we needed to add a lot more information on the screena about the chain.| ![zsl-game-screen](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)| ![zsl-ocean-game-screen](https://user-images.githubusercontent.com/31927590/33014075-eacb21f2-cddd-11e7-9020-0d18243f677f.png)|
 
 ## The IDE
-The IDE we used was Unity because we thought as we only had limited time it would be the best for us to use as it does some of the work for you. Also we had to make it web based and Unity is really good for that. finally we worked a group of 4 so we was able to throw wrok back and forth to keep every one up to date as we all worked on differnet parts of the game.  
+The IDE we used was Unity because we thought as we only had limited time it would be the best for us to use as it does some of the work for you. Also we had to make it web based and Unity is really good for that. finally we worked a group of 4 so we was able to throw work back and forth to keep every one up to date as we all worked on differnet parts of the game. We was unable to do this if we was to use another IDE so it was a simple choice for us 
 ![ghbs](https://user-images.githubusercontent.com/31927415/33601003-e2cdf594-d9a2-11e7-8434-26206184a7d1.JPG)
 
 ## VII. Research
