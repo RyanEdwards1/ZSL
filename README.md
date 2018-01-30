@@ -156,8 +156,16 @@ The IDE we used was Unity because we thought as we only had limited time it woul
 The different research methods that we used though out the ZSL project starting from the first pitch was taking notes about what she wanted in the program and what the uses of it would be. We went away as a group to brain storm different ideas on how we would fill all of the requests on are app. We did some research on ZSL and what it is doing to help the environment, we also looked at other ways the world is trying to help stop climate change. When Michelle came in to check up on are apps we took more notes on the information that she gave us as feedback from the feedback we realised that we had gone off track a little and her new feedback had pushed us back on track.
 
 ## VIII. Tools and Techniques
+### Tools
+#### Photoshop
+#### Github
+#### Unity
+#### Power Point
 
-
+### Techniques 
+#### Interviews
+#### Prototyping
+#### Presentations
 ## IX. Testing
 
 ## X. Final Product Presentation (7th November 2017)
