@@ -165,11 +165,11 @@ We used Power Point for are presentations, first when she came in to see are ide
 
 ### Techniques -
 #### Interviews - 
-
+We had multiple interviews with ZSL. The first one was when Michelle came in to tell us about the project and what she wants at the end of it. We all took notes so that we could get more information from what she was saying as well as off the Power Point she had. The other Interview we did was when we were at ZSL presenting are final game.
 #### Prototyping -
-
+We used prototyping when was creating are game in Unity we tested everything after doing sections of code and saving backups all the time. We also loaded up separate Unity programs to test certain parts to see if each part was working so if we had a problem when we put it together it would be easier to find the problem  
 #### Presentations -
-
+We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across 
 ## VIII. Testing
 
 ## IX. Final Product Presentation (7th November 2017)
