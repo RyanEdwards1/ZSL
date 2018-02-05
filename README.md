@@ -162,10 +162,14 @@ As a group we used GitHub a lot to trade documentation between all of us as when
 We used Unity to create are application. We figured unity was the best to use as a group of 4 we could all work on it at the same time and then upload it for each other so we could complete it faster. It was also easy to use and had a lot of assists which we used as we were only starting out on the program. 
 #### Power Point - 
 We used Power Point for are presentations, first when she came in to see are ideas and concept designs we made a short presentation to show off the ideas so it was easy for her to see what are ideas where. We also used Power Point to present are final game to them when we went to Whipsnade zoo. We showed are finished design and how we adapted to feed back. The reason we used Power Point was that it is the simplest and best presentation software out there. We also used Power Point online so all four of us could work on different slides for the certain parts of work that each person did.
+
 ### Techniques -
-#### Interviews
-#### Prototyping
-#### Presentations
+#### Interviews - 
+
+#### Prototyping -
+
+#### Presentations -
+
 ## VIII. Testing
 
 ## IX. Final Product Presentation (7th November 2017)
