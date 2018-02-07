@@ -172,5 +172,5 @@ We used prototyping when was creating are game in Unity we tested everything aft
 We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across 
 
 ## VIII. Review/Evaluation
-
-
+#### Tools And Techniques 
+The reason we chose to use are selected tools and techniques was because we had experience using them and they all had the benefit of more than one person working it at a time which helped with are time management and we’ll all had backups which was good security for the project. All of the tools and Techniques where perfect for each part of the project we used them for we had no trouble with any of them. Overall we took are time to make sure we chose the right tools and techniques so we didn’t run into any problems with the project down the round. This benefited us a lot as we didn’t run into any problems with them 
