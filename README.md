@@ -177,4 +177,7 @@ The reason we chose to use are selected tools and techniques was because we had 
 
 #### Project Management Process / Research
 Firstly, the project management process helped us meet the objectives and helped us with are learning because it made us follow a schedule that we created and confirmed that we could work to it so there were no excuses for the work to not be done. So this helped us with are time management and also working outside of college time. The management also helped us know what we had to do that day or what we had to do once we finished a certain part of the work. This helped with are performance because if we fell behind the project would not get done. 
+
 Secondly the research that we did about ZSL, The Zoo’s and mostly Climate Change so that when we were putting game together all of the facts and questions was correct. The researched also helped us with knowing what to put in are game for example if we had the rainforest back ground we would need to know what animals to put in this area otherwise it will be wrong and we will look non-professional with mistakes like that. Also the researched helped us with the greenhouse gas chain as we had to research it and get to know why it’s bad and what it is doing to the earth. 
+
+### The Project Overall
