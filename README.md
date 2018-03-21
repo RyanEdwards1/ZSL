@@ -134,6 +134,7 @@ https://github.com/RyanEdwards1/ZSL#project-management-documentation
 * The First thing that 'cost' money is the systems that we used to create the application. The systems that we used at college are around £1500 including the screens and peripherals. This so far brings our cost to £6000 as there were 4 of us in a group. 
 * Secondly the software that we used to create the game was called Unity Pro which cost around £130 per person. So, for the group of four would be around £520 just for the software to develop the game. We also used Adobe and Microsoft applications which are £40 a month for Adobe and £120 for Microsoft office. 
 * Another cost was the internet. As we mostly used the internet at college we were unable to get the price of the internet.
+* Another cost is the travel to and from ZSL Whipsnade Zoo for a minibus to take the class there for are final pitches.
 
 ### Scope: 
 For this project we had to create a fun interactive game that is also education. As we had a very limited time to build this application we needed to make sure we had everything in order and made sure we meet the requirements and not focusing on things that was not needed. So to complete this project we knew that we had to focus on only the things inside the scope.
