@@ -125,6 +125,34 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 
 •	Compatible with an IPad
 
+Please use this section to provide all appropriate, valid and checked http Links that point to your evidence; use multiple lines to separate multiple links 
+
+https://github.com/RyanEdwards1/ZSL#project-management-documentation 
+
+### Cost: 
+##### Overall, we had a few things that cost money in the project such as. 
+* The First thing that 'cost' money is the systems that we used to create the application. The systems that we used at college are around £1500 including the screens and peripherals. This so far brings our cost to £6000 as there were 4 of us in a group. 
+* Secondly the software that we used to create the game was called Unity Pro which cost around £130 per person. So, for the group of four would be around £520 just for the software to develop the game. We also used Adobe and Microsoft applications which are £40 a month for Adobe and £120 for Microsoft office. 
+* Another cost was the internet. As we mostly used the internet at college we were unable to get the price of the internet.
+
+### Scope: 
+For this project we had to create a fun interactive game that is also education. As we had a very limited time to build this application we needed to make sure we had everything in order and made sure we meet the requirements and not focusing on things that was not needed. So to complete this project we knew that we had to focus on only the things inside the scope.
+
+### Time:
+We had 5 weeks in total to complete the project from when Michelle came in to pitch the idea to us. We then had just 2 weeks to complete all of the required design documentation to show Michelle when she can in to check on the progress. Within the first 2 weeks we also needed to complete a proposal to demonstrate and show the client our idea. The 3rd and 4th week were used for the development and construction of the application and the last week was used for testing and finalizing the application to then give the finished product to the client.
+
+### Quality:
+The Quality of the project was very important as this was for a serious client. It was going to be used in education lessons. So, the quality had to be top quality nothing less. Throughout the development process we worked to make sure that the application came across as professional and looked high quality.
+
+### Communication: 
+Throughout the ZSL project we stayed in touch with Michelle though Email as we sent back and forth ideas and questions on the application. as a group we also stayed in touch with text, in class and via email if we were sending work to one another. It was important that we stayed in commutation with each other out side of college so we could all stay on the same page while doing work. 
+
+### Risk: 
+The biggest risk that we had with taking on this project was the reputation for not only are selves but also reboot games as a company. It was our first client and we needed to make good and long-lasting impressions from the start so that they may want to work with us again in the future. We also want to make sure we were professional and have a good reputation for more clients down the road.
+
+### Resources:
+The Resources that we used during this project where: A Computer, Internet Access, Unity Pro, Adobe Photoshop, Microsoft Office 
+
 
 ## II. First Client Meeting (2nd October 2017)
 Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them. The information given to us included:
