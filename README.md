@@ -94,21 +94,35 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 
 ## Project Aims:
 •	To create a fun and educational game
+
 •	To educate the students about climate change
+
 •	To make it interactive for the kids to enjoy 
+
 •	To raise awareness and how they can help stop climate change 
+
 ## Objectives:
 •	Finish the Design documentation by Monday 16th October 2017
+
 •	To finish all of the proposal documentation by Monday 16th October 2017
+
 •	To finish the development and building of the game by Sunday 29th October 2017
+
 •	To make sure the game has been tested and is ready for shipping to the client by Monday 6th November 2017
+
 ## User and software Requirements:
 •	Educational game
+
 •	Fun and interactive game
+
 •	Multi-user friendly
+
 •	Simplistic / intuitive interface
+
 •	Child friendly
+
 •	Short and sweet
+
 •	Compatible with an IPad
 
 
