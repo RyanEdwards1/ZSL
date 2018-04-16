@@ -165,6 +165,13 @@ An Epic is a larger user story. It can also be described as a big piece of work 
 ### User stories:
 A user story is something a user wants. However, think of these stories as going towards completing the overall epics. For example, when we discussed epics, we said how the client came to us and said "design and build an interactive application which will help educate students on the affect we are having on the climate". We took what they asked and turned it into an epic which was "As a user I want to be able to learn about the affects I have on the climate". From that epic we can break that down into User stories. As an example, we could create a user story which states "As a user I would like to see what affect im having".
 
+* As a user I would like to be able to see which habitat I am in 
+* As a user I would like to be able to select the habitat I want to enter
+* As a user I would like to be able to see how I am helping the planet 
+* As a user I would like to be able to use the app on a IPad 
+* As a user I would like to be able to see the effects these habitats are under
+
+
 
 
 ## IV. Designing
