@@ -158,7 +158,8 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 
 ## Work BreakDown Structure 
-![37670484-53eb3546-2c61-11e8-9f4c-208ec9195f2e](https://user-images.githubusercontent.com/31927415/37708052-1802f2ac-2cfd-11e8-8b8a-b79bdd135c94.png)
+![image2015-4-24-11-12-10](https://user-images.githubusercontent.com/31927415/38812118-4a02b9dc-4183-11e8-8c86-0e0386603f32.png)
+
 ### What are epics and user stories:
 ### Epics:
 An Epic is a larger user story. It can also be described as a big piece of work that has one common objective within the overall project. It could be a feature, customer request or business requirement. An Example is with ZSL they came to us and asked us to design and build an application which will help students on the affect we are having on the climate. We take that request and turn it into a couple of epics, for example "As a user I want to be able to learn about the affects I have on the climate" now from that epic we can then break that down further to give us User Stories.
