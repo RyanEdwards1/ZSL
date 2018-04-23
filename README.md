@@ -151,7 +151,7 @@ The biggest risk that we had with taking on this project was the reputation for 
 The Resources that we used during this project where: A Computer, Internet Access, Unity Pro, Adobe Photoshop, Microsoft Office 
 
 ## The Project Management Plan
-
+The project management plan that we are using is called Scrum it is a basic framework that lots of people and groups use when doing work/project. The events within scrum are all aimed towards helping the project move forward some of events are Sprint, Sprint Planning, Sprint Review. All of these are work done within a certain time. The way scrum works within a project is it breaks the whole project down into Epics which are the main points of the project. Then the epics are set into User Stories which are smaller projects that once completed. Are combined to complete the epic which is then a min part of the project completed.
 
 ## II. First Client Meeting (2nd October 2017)
 Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them. The information given to us included:
