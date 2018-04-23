@@ -150,6 +150,8 @@ The biggest risk that we had with taking on this project was the reputation for 
 ### Resources:
 The Resources that we used during this project where: A Computer, Internet Access, Unity Pro, Adobe Photoshop, Microsoft Office 
 
+## The Project Management Plan
+
 
 ## II. First Client Meeting (2nd October 2017)
 Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them. The information given to us included:
