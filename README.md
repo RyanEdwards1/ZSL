@@ -173,6 +173,13 @@ A user story is something a user wants. However, think of these stories as going
 * As a user I would like to be able to see how I am helping the planet 
 * As a user I would like to be able to use the app on a IPad 
 * As a user I would like to be able to see the effects these habitats are under
+* As a user i want to be able to navigate through the application easily
+* As a user i would like there to be lots of colourful aspects of the application 
+* As a user i would like to be able to go back to previous pages
+* As a user i want to be able to read all of the information
+* As a user i would like to stay engaged whilst using the app
+* As a user i would like to be given cool facts as i use the app
+
 
 ### Sprint 1 - 3/10/2017 - Design Documentation
 
