@@ -175,6 +175,7 @@ A user story is something a user wants. However, think of these stories as going
 * As a user I would like to be able to see the effects these habitats are under
 
 ### Sprint 1 - 3/10/2017 - Design Documentation
+
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|    | Create a Story Board | Ryan | 45 Minutes | Yes | 
 | Create a Flow Chart |    George  |     45 Minutes   |   Yes     | 
