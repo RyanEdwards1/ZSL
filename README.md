@@ -176,7 +176,7 @@ A user story is something a user wants. However, think of these stories as going
 
 ### Sprint 1 - 3/10/2017 - Design Documentation
 | Task    | Group Member         | Time Allocated               | Completed                      |
-|----------------------------------------------------------|-----------------|----------------------|--------------------------------    | Create a Story Board | Ryan | 45 Minutes | Yes | 
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|    | Create a Story Board | Ryan | 45 Minutes | Yes | 
 | Create a Flow Chart |    George  |     45 Minutes   |   Yes     | 
 | Research / Create concept art |   Sam   |   1 Hour    |      Yes       |
 | Create a full list of features and how it relates to clients requirements |  Mark  |   1 Hour | Yes |                                 | Project Specification  |   Whole Group |      1 hour    |  Yes    |                   
