@@ -196,8 +196,8 @@ A user story is something a user wants. However, think of these stories as going
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Creation of Power Point | Ryan / Mark | 2 Hours | Yes | 
-| Scripts  |    Sam  |     1 Hour 30 Minutes   |   Yes     | 
-| Handouts |  George   |   1 Hour    |      Yes       |
+| Create Scripts  |    Sam  |     1 Hour 30 Minutes   |   Yes     | 
+| Design / Create Handouts |  George   |   1 Hour    |      Yes       |
 | Finalize Concept Pitch Ready For The Presentation   |   Whole Group |      1 hour    |  Yes    |                   
 | Practice Run Though Of Pitch   |   Whole Group |      25 Minutes    |  Yes    |
 
