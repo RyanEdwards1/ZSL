@@ -183,20 +183,27 @@ A user story is something a user wants. However, think of these stories as going
 
 
 ### Sprint 2 - 09/10/2017 - Complete Proposal
+
 | Task    | Group Member         | Time Allocated               | Completed                      |
-|----------------------------------------------------------|-----------------|----------------------|--------------------------------    | Creation of Power Point | Ryan / Mark | 2 Hours | Yes | 
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|    | Creation of Power Point | Ryan / Mark | 2 Hours | Yes | 
 | Scripts  |    Sam  |     1 Hour 30 Minutes   |   Yes     | 
 | Handouts |  George   |   1 Hour    |      Yes       |
 | Finalize Concept Pitch Ready For The Presentation   |   Whole Group |      1 hour    |  Yes    |                   
 | Practice Run Though Of Pitch   |   Whole Group |      25 Minutes    |  Yes    |
 
 ### Sprint 3 - 17/10/2017 Development 
+
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Start On The Coding   |   Mark / Ryan |      1 Week    |  Yes    |
 | Start On The Graphics   |   Sam |      1 Week    |  Yes    |
 | Create the Infomation That Will Be In The Game   |   George |     1 Week    |  Yes    |
 | Connect all scenes   |   Whole Group |      2 hour    |  Yes    |
 
 ### Sprint 4 - 25/10/2017
+
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Making Sure Touch And Drag Works   |   Sam |      20 Minutes    |  Yes    |
 | Making Sure Home Screen Works   |   Mark |      20 Minutes    |  Yes    |
 | Compatible With Browser   |   Ryan |      20 Minutes    |  Yes    |
